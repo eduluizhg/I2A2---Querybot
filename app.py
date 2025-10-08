@@ -569,7 +569,7 @@ st.markdown(
     <div class="hero-section">
         <div>
             <span class="main-title-icon">🤖</span>
-            <h1 class="main-title">InsightAgent EDA</h1>
+            <h1 class="main-title">QueryBot - Curso I2A2</h1>
         </div>
         <p class="subtitle">
             Transforme seus dados em insights acionáveis com o poder da Inteligência Artificial.
