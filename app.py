@@ -24,7 +24,7 @@ from agents.code_generator import run_code_generator
 from agents.agent_setup import get_dataset_preview
 
 # --- Configuração da Página e Estado da Sessão ---
-st.set_page_config(layout="wide", page_title="InsightAgent EDA")
+st.set_page_config(layout="wide", page_title="QueryBot - Curso I2A2")
 
 # --- Estilos de Layout e Cores (Frontend) ---
 # Somente CSS/tema, nenhuma alteração de lógica funcional
